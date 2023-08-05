@@ -28,11 +28,11 @@ Estoy constantemente aprendiendo y explorando nuevas oportunidades. Hay otro pro
 
 ## 🤝 Colaboración y Comunidad
 
-Estoy abierto a colaboraciones y siempre dispuesto a conectar con otros entusiastas de la tecnología. ¡No dudes en contactarme!
+Si tienes ideas, preguntas, o simplemente quieres hablar sobre desarrollo y Minecraft, ¡no dudes en contactarme!
 
 ## 📫 Encuéntrame en
 
-- LinkedIn: [Tu Perfil](URL)
+- LinkedIn: [Tu Perfil](https://www.linkedin.com/in/dytzu)
 - Twitter: [Dytzu](https://twitter.com/cristobal_amf)
 
 ---
