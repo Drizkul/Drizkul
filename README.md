@@ -1,40 +1,40 @@
-# Hola, soy Dytzu! 👋
+# Hi, I'm Dytzu! 👋
 
-Soy uno de los tres fundadores y desarrollador en **AscendMC**, un servidor de Minecraft innovador y apasionante. Mi amor por Java y el desarrollo de backend me ha llevado a trabajar en proyectos creativos y técnicamente desafiantes.
+I'm one of three co-founders and a developer at **AscendMC**, an innovative and exciting Minecraft server. My love for Java and backend development has led me to work on creative and technically challenging projects.
 
-## 🎮 Proyecto Actual: AscendMC
+## 🎮 Current Project: AscendMC
 
-AscendMC es un servidor de Minecraft cofundado junto con otros dos talentosos desarrolladores. Trabajamos en:
+AscendMC is a Minecraft server co-founded alongside two other talented developers. We are engaged in:
 
-- Desarrollo de plugins personalizados en Java
-- Manejo de bases de datos con MongoDB y Redis
-- Creación de una API para simplificar la programación en Minecraft y agregar nuevas funcionalidades
+- Custom plugin development in Java
+- Database handling with MongoDB and Redis
+- Creating an API to simplify Minecraft programming and add new functionalities
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Technical Skills
 
-- **Java:** Desarrollo de backend y plugins para Minecraft
-- **Bases de Datos:** MySQL, MongoDB, Redis
-- **API Development:** Diseño y construcción de APIs robustas
-- **Otros Lenguajes:** Python (Intermedio)
+- **Java:** Backend development and Minecraft plugins
+- **Databases:** MySQL, MongoDB, Redis
+- **API Development:** Designing and building robust APIs
+- **Other Languages:** Python (Intermediate)
 
-## 🌱 Aprendizaje Continuo y Próximos Proyectos
+## 🌱 Continuous Learning and Upcoming Projects
 
-Estoy constantemente aprendiendo y explorando nuevas oportunidades. Hay otro proyecto emocionante en camino, ¡así que mantente atento para más detalles!
+I am constantly learning and exploring new opportunities. There's another exciting project on the way, so stay tuned for more details!
 
-## 🔗 Proyectos Destacados
+## 🔗 Highlighted Projects
 
-- **AscendMC:** Servidor de Minecraft cofundado con dos colaboradores increíbles.
-- **API para Minecraft:** Trabajando para simplificar y enriquecer la experiencia de programación en Minecraft.
+- **AscendMC:** Minecraft server co-founded with two amazing collaborators.
+- **API for Minecraft:** Working to simplify and enrich the programming experience in Minecraft.
 
-## 🤝 Colaboración y Comunidad
+## 🤝 Collaboration and Community
 
-Si tienes ideas, preguntas, o simplemente quieres hablar sobre desarrollo y Minecraft, ¡no dudes en contactarme!
+If you have ideas, questions, or just want to talk about development and Minecraft, feel free to reach out to me!
 
-## 📫 Encuéntrame en
+## 📫 Find Me At
 
-- LinkedIn: [Tu Perfil](https://www.linkedin.com/in/dytzu)
-- Twitter: [Dytzu](https://twitter.com/cristobal_amf)
+- LinkedIn: [Click](https://www.linkedin.com/in/dytzu)
+- Twitter: [Click](https://twitter.com/cristobal_amf)
 
 ---
 
-⭐️ De [Dytzu](https://github.com/Dytzu)
+⭐️ From [Dytzu](https://github.com/Dytzu)
