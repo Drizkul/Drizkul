@@ -13,7 +13,7 @@ AscendMC es un servidor de Minecraft cofundado junto con otros dos talentosos de
 ## 🛠️ Habilidades Técnicas
 
 - **Java:** Desarrollo de backend y plugins para Minecraft
-- **Bases de Datos:** MongoDB, Redis
+- **Bases de Datos:** MySQL, MongoDB, Redis
 - **API Development:** Diseño y construcción de APIs robustas
 - **Otros Lenguajes:** Python (Intermedio)
 
@@ -33,7 +33,7 @@ Estoy abierto a colaboraciones y siempre dispuesto a conectar con otros entusias
 ## 📫 Encuéntrame en
 
 - LinkedIn: [Tu Perfil](URL)
-- Twitter: [Dytzu](https//:twitter.com/cristobal_amf)
+- Twitter: [Dytzu](https://twitter.com/cristobal_amf)
 
 ---
 
