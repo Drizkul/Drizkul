@@ -1,10 +1,10 @@
 # Hola, soy Dytzu! 👋
 
-Soy el fundador y desarrollador en **AscendMC**, un servidor de Minecraft, y tengo un amor inquebrantable por Java y el desarrollo de backend. Me encuentro constantemente innovando, creando herramientas y expandiendo mi conocimiento en la industria.
+Soy uno de los tres fundadores y desarrollador en **AscendMC**, un servidor de Minecraft innovador y apasionante. Mi amor por Java y el desarrollo de backend me ha llevado a trabajar en proyectos creativos y técnicamente desafiantes.
 
 ## 🎮 Proyecto Actual: AscendMC
 
-AscendMC es mi servidor de Minecraft, donde trabajo en:
+AscendMC es un servidor de Minecraft cofundado junto con otros dos talentosos desarrolladores. Trabajamos en:
 
 - Desarrollo de plugins personalizados en Java
 - Manejo de bases de datos con MongoDB y Redis
@@ -19,21 +19,21 @@ AscendMC es mi servidor de Minecraft, donde trabajo en:
 
 ## 🌱 Aprendizaje Continuo y Próximos Proyectos
 
-Estoy constantemente aprendiendo y tengo otro proyecto emocionante en camino. ¡Mantente atento para más detalles!
+Estoy constantemente aprendiendo y explorando nuevas oportunidades. Hay otro proyecto emocionante en camino, ¡así que mantente atento para más detalles!
 
 ## 🔗 Proyectos Destacados
 
-- **AscendMC:** Mi servidor de Minecraft, una combinación de creatividad y habilidades técnicas.
-- **API para Minecraft:** Simplificando y enriqueciendo la experiencia de programación en Minecraft.
+- **AscendMC:** Servidor de Minecraft cofundado con dos colaboradores increíbles.
+- **API para Minecraft:** Trabajando para simplificar y enriquecer la experiencia de programación en Minecraft.
 
 ## 🤝 Colaboración y Comunidad
 
-Si tienes ideas, preguntas, o simplemente quieres hablar sobre desarrollo y Minecraft, ¡no dudes en contactarme!
+Estoy abierto a colaboraciones y siempre dispuesto a conectar con otros entusiastas de la tecnología. ¡No dudes en contactarme!
 
 ## 📫 Encuéntrame en
 
 - LinkedIn: [Tu Perfil](URL)
-- Twitter: [Dytzu](twitter.com/cristobal_amf)
+- Twitter: [Dytzu](https//:twitter.com/cristobal_amf)
 
 ---
 
