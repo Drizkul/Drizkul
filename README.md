@@ -1,4 +1,4 @@
-# Hi, I'm Dytzu! 👋
+# Hi, I'm Drizkul! 👋
 
 I'm one of three co-founders and a developer at **AscendMC**, an innovative and exciting Minecraft server. My love for Java and backend development has led me to work on creative and technically challenging projects.
 
@@ -32,9 +32,9 @@ If you have ideas, questions, or just want to talk about development and Minecra
 
 ## 📫 Find Me At
 
-- LinkedIn: [Click](https://www.linkedin.com/in/dytzu)
+- LinkedIn: [Click](https://www.linkedin.com/in/drizkul)
 - Twitter: [Click](https://twitter.com/cristobal_amf)
 
 ---
 
-⭐️ From [Dytzu](https://github.com/Dytzu)
+⭐️ From [Dytzu](https://github.com/Drizkul)
