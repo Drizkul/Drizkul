@@ -37,4 +37,4 @@ If you have ideas, questions, or just want to talk about development and Minecra
 
 ---
 
-⭐️ From [Dytzu](https://github.com/Drizkul)
+⭐️ From [Drizkul](https://github.com/Drizkul)
